@@ -1,0 +1,3 @@
+## Initializer
+org.springframework.context.ApplicationContextInitializer=com.source.initializer.SecondApplicationContextInitializer
+org.springframework.context.ApplicationListener=com.source.listener.SecondListener

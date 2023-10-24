@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+context:
+  initializer:
+    classes: com.source.initializer.ThirdApplicationContextInitializer
+  listener:
+    classes: com.source.listener.ThirdListener
