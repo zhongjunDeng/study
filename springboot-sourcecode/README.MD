@@ -10,4 +10,6 @@
 #   CommandLineRunner 与 ApplicationRunner
 1. 两个接口的实现方法不同，参数不一样，没有其他区别，两个参数都可以接收java命令设置的参数及值
    2. 使用场景： 针对预加载数据需求，提前加载到缓存中或类的属性中，并希望执行操作的时间是在容器启动末尾时间执行操作
+#   FactoryBean
+1. 动态将Bean注入IOC
 
